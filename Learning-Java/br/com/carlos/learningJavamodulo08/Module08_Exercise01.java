@@ -2,7 +2,7 @@
  * @author carlos
  * Operadores lógicos com if else.
  * */
-package br.com.carlos.learningJava;
+package br.com.carlos.learningJavamodulo08;
 
 public class Module08_Exercise01 {
 	public static void main(String[] args) {
